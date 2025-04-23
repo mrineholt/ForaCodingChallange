@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KRsQNTtwEW8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matt.rineholt\\Desktop\\Fora\\Fora.Business\\Fora.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matt.rineholt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
